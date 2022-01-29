@@ -51,8 +51,8 @@ SIMPLE BGM BOT ONLY!
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-ser
+$ git clone https://github.com/SPlRlT-YT/spirit-ser
+$ cd spirit-ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -60,8 +60,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-SER
+$ git clone https://github.com/SPlRlT-YT/spirit-ser
+$ cd SPIRIT-SER
 $ npm i
 $ node julie.js
 ```
