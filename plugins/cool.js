@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═sᴘɪʀɪᴛ-sᴇʀ ᴏᴡɴᴇʀ sᴘɪʀɪᴛ- »« ʀᴇᴀʟ ɴᴀᴍᴇ-Aᴍʀᴜᴛʜᴇsʜ═🌟*\n\n*🔅https://github.com/SPlRlT-YT/spirit-ser*"
+        r_text[1] = "*Gɪᴛ Lɪɴᴋs*\n           *\n🌟═sᴘɪʀɪᴛ-sᴇʀ ᴏᴡɴᴇʀ sᴘɪʀɪᴛ- »« ʀᴇᴀʟ ɴᴀᴍᴇ-sᴘɪʀɪᴛᴛʜᴇsʜ═🌟*\n\n*🔅https://github.com/SPlRlT-YT/spirit-ser*"
 
     
         await message.client.sendMessage(
