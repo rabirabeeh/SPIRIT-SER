@@ -18,11 +18,11 @@
 
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--spiritthesh/spirit-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-YT-SPIRITSER">spirit-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -69,16 +69,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/AMRUSIR/AMRU-SER">
+  <a href="https://github.com/SPlRlT-YT/spirit-ser">
     
-<a href="https://github.com/AMRUSIR/followers">
+<a href="https://github.com/SPlRlT-YT/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AMRUSIR/followers"
+<a href="https://github.com/SPlRlT-YT/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AMRUSIR/AMRU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/spirit-ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SPlRlT-YT/spirit-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/spirit-ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SPlRlT-YT/spirit-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/SPlRlT-YT/spirit-ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SPlRlT-YT/spirit-ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -88,7 +88,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPlRlT-YT&repo=spirit-ser&theme=nightowl)](https://github.com/SPlRlT-YT/spirit-ser)
   </div>
     
 ### ⚠ Warning ⚠
@@ -107,14 +107,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![spirit-ser](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![AMRU-SER](https://github.com/AMRUSIR.png?size=100)](https://github.com/AMRUSIR) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
+  [![spirit-ser](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
 ----|----|----|----
-[AMRU-SER](https://github.com/AMRUSIR) | [Arx-Abu](https://github.com/Arx-Abu)
+[spirit-ser](https://github.com/SPlRlT-YT) | [Arx-Abu](https://github.com/Arx-Abu)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
