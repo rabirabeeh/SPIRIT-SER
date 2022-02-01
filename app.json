@@ -43,7 +43,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "Amruser"
+            "value": "spiritser"
         },
         "ALIVE_BUTTON": {
             "description": "Set the alive message two name",
