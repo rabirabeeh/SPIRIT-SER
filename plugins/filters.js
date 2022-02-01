@@ -84,8 +84,8 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '18724651919@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroserv2/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '917025994178@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroserv2/Hi.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
 await message.client.sendMessage(message.jid, fs.readFileSync('Kaztroserv2/owner.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
@@ -116,8 +116,8 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '18724651919@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroser/spirit.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    if (!!message.mention && message.mention[0] == '918281440156@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroser/Hi.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = ['Sed','Hi','spirit']
 array.map( async (a) => {
