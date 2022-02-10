@@ -119,7 +119,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '917994093863@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Kaztroser/spirit.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Sed','Hi','spirit','Bgm']
+const array = ['Sed','Hi','spirit','Bgm','Z']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
