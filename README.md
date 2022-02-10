@@ -18,11 +18,11 @@
 
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--spiritthesh/spirit-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author-spirit-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SPlRlT-YT-SPIRITSER">spirit-ser</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-YT-SPIRIT-SER">spirit-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -35,16 +35,16 @@ Project created by <a href="https://github.com/SPlRlT-YT-SPIRITSER">spirit-ser</
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://www.instagram.com/spirit_ser/)
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER.git)
 
 SIMPLE BGM BOT ONLY!
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KMSPlRlT/SPIRIT-SER-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SPlRlTbot/SPIRIT-SER-QR)
   
 ### The Hard Method
 ```js
@@ -75,7 +75,7 @@ $ node julie.js
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/SPlRlT-YT/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
+<img title="Followers" src="https://img.shields.io/github/followers/SPlRlT-YT?color=blue&style=flat-square"></a>
 <a href="https://github.com/SPlRlT-YT/spirit-ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SPlRlT-YT/spirit-ser?color=blue&style=flat-square"></a>
 <a href="https://github.com/SPlRlT-YT/spirit-ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SPlRlT-YT/spirit-ser?color=blue&style=flat-square"></a>
 <a href="https://github.com/SPlRlT-YT/spirit-ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SPlRlT-YT/spirit-ser?label=Watchers&color=blue&style=flat-square"></a>
@@ -85,7 +85,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SPlRlT-YT&repo=spirit-ser&theme=nightowl)](https://github.com/SPlRlT-YT/spirit-ser)
@@ -95,7 +95,7 @@ Click WA logo to Join Support Group 👇
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Amru_sir_v2 or we are not responsible for your account, 
+spirit ser or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -107,16 +107,20 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![spirit-ser](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![spirit-ser](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917994093863?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![spirit-ser](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) 
+  [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![Kaztro-serv2](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) |  [![Amal-ser](https://github.com/Amal-ser.png?size=100)](https://github.com/SPlRlT-YT) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
 ----|----|----|----
-[spirit-ser](https://github.com/SPlRlT-YT) | [Arx-Abu](https://github.com/Arx-Abu)
+[SPlRlT-YT](https://github.com/SPlRlT-YT) | [SPlRlT-YT](https://github.com/SPlRlT-YT) | [Amal-ser](https://github.com/SPlRlT-YT) | [AMALSER](https://github.com/Amal-ser) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
+    
+**[![SPIRIT-SER](https://i.imgur.com/Mbaz2g9.jpg)](http://wa.me/917994093863?text=Can%20you%20help%20bro)**
+    
+
     
 
 
