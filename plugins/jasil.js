@@ -11,18 +11,21 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `Bᴏᴛ Nᴀᴍᴇ  Sᴘɪʀɪᴛ sᴇʀ Bᴏᴛ 
 
-Cʀᴇᴀᴛᴇʀ number : wa.me/12098020068?text=Hi%20sᴘɪʀɪᴛ%20bro.%20
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917994093863
 
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ :➪ Sᴘɪʀɪᴛ💝
 
- Sᴘɪʀɪᴛ sᴇʀ Cʜᴀɴᴀʟ : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA
-     
- 
- Sᴘɪʀɪᴛ sᴇʀ Bᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
+sᴘɪʀɪᴛ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/F3adhxvYpd3KzVptzDxhC4
 
+Gɪᴛʜᴜʙ ʟɪɴᴋ:  https://github.com/SPlRlT-YT/SPIRIT-SER
 
-Gɪᴛ Lɪɴᴋ : https://github.com/SPlRlT-YT/spirit-ser
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/uploads
 
- Sᴘɪʀɪᴛ-sᴇʀ-ʙᴏᴛꫂ⁩..♡︎
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SPlRlT-YT/SPIRIT-SER/tree/master/Spiritser
+
+Cʜᴀɴɴᴇʟ :  https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA
+
+💝sᴘɪʀɪᴛ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Sᴘɪʀɪᴛ Sᴇʀ 💝
 `}) 
 
 }));
